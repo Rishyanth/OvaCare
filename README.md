@@ -826,10 +826,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 9. Legro, R. S., Arslanian, S. A., Ehrmann, D. A., Hoeger, K. M., Murad, M. H., Pasquali, R., & Welt, C. K. (2013). Diagnosis and treatment of polycystic ovary syndrome: an Endocrine Society clinical practice guideline. The Journal of Clinical Endocrinology & Metabolism, 98(12), 4565-4592.
 
 10. Rosenfield, R. L., & Ehrmann, D. A. (2016). The pathogenesis of polycystic ovary syndrome (PCOS): the hypothesis of PCOS as functional ovarian hyperandrogenism revisited. Endocrine Reviews, 37(5), 467-520.
-
-
-**Mailing Address**:
-OvaCare Health Technologies
-123 Wellness Street
-Healthville, CA 94000
-United States
