@@ -827,18 +827,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 10. Rosenfield, R. L., & Ehrmann, D. A. (2016). The pathogenesis of polycystic ovary syndrome (PCOS): the hypothesis of PCOS as functional ovarian hyperandrogenism revisited. Endocrine Reviews, 37(5), 467-520.
 
-## Contact Information
-
-For questions, feedback, or collaboration inquiries, please contact us at:
-
-**Email**: [contact@ovacare.org](mailto:contact@ovacare.org)
-
-**Website**: [www.ovacare.org](https://www.ovacare.org)
-
-**Social Media**:
-- Twitter: [@OvaCareApp](https://twitter.com/OvaCareApp)
-- Instagram: [@OvaCareApp](https://instagram.com/OvaCareApp)
-- LinkedIn: [OvaCare](https://linkedin.com/company/ovacare)
 
 **Mailing Address**:
 OvaCare Health Technologies
